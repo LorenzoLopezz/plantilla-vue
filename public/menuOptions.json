@@ -1,0 +1,14 @@
+{
+    "options": [
+        {
+            "name": "Dashboard",
+            "icon": "mdi-view-dashboard-variant",
+            "route": "/dashboard"
+        },
+        { 
+            "name": "Configuraciones", 
+            "icon": "mdi-tune", 
+            "route": "/auth"
+        }
+    ]
+}
